@@ -1,13 +1,16 @@
 {
-  "name": "metar",
-  "version": "1.0.0",
-  "description": "METAR weather report parser",
+  "name": "@pierreca/metar",
+  "version": "1.0.1",
+  "description": "Fork from github.com/skydivejkl/metar.js with temporary fixes - METAR weather report parser",
   "main": "metar.js",
   "scripts": {
     "test": "eslint metar.js test/*.js && jest"
   },
-  "repository": "https://github.com/skydivejkl/metarjs.git",
+  "repository": "https://github.com/pierreca/metar.js.git",
   "author": "Esa-Matti Suuronen",
+  "contributors": [
+    "Pierre Cauchois"
+  ],
   "license": "MIT",
   "devDependencies": {
     "eslint": "^3.17.0",
