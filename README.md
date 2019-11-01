@@ -20,7 +20,7 @@ browser
 
 ## Example
 
-Get reports from <http://weather.noaa.gov/pub/data/observations/metar/stations/>
+Get reports from <http://tgftp.nws.noaa.gov/data/observations/metar/stations/>
 
 ```javascript
 // only required in node or browserify otherwise it's a global.
